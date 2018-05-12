@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5182
     wikipedia: http://en.wikipedia.org/wiki/Edmond_François_Valentin_About
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26404#La-nariz-de-un-notario
 gutenberg_issued: '2008-08-23'
 gutenberg_type: Text
 identifiers:
